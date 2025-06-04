@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <style name="RectButton" parent="Widget.AppCompat.Button">
+        <item name="android:background">@color/pink</item>
+        <item name="android:minHeight">60dp</item>
+        <item name="android:minWidth">120dp</item>
+
+    </style>
+    <string name="reset">Reset</string>
+    <string name="textview1">Tic Tac Toe</string>
+    <string name="textview2">Player X</string>
+    <string name="textview3">Player O</string>
+</resources>
