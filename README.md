@@ -20,7 +20,9 @@ A simple and clean implementation of the classic Tic Tac Toe (X-O) game for Andr
 ## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/67a31dc4-1373-45f1-abb3-a81c5657a597)
 ![image](https://github.com/user-attachments/assets/a02f88d6-32e7-4e46-8071-f27385994517)
+![image](https://github.com/user-attachments/assets/6f1533f8-13b8-4339-8713-0d4770a4ee78)
 ![Uploading image.png…]()
+
 
 
 
