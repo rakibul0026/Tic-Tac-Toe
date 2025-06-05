@@ -1,39 +1,36 @@
-# Tic Tac Toe - Android App 🎮
+# ✨ Tic Tac Toe Android App
 
-A simple and fun Tic Tac Toe (X-O) game built using Android Studio and Java.
+A simple and clean implementation of the classic Tic Tac Toe (X-O) game for Android using Java and XML. This app is designed with a user-friendly interface and is ideal for learning the basics of Android development, UI design, and logic building.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-preview.png" width="300" alt="Tic Tac Toe UI">
-</p>
+## 📱 App Features
 
-## 📱 Features
+- 🕹️ Two-player Tic Tac Toe game
+- 🧠 Game logic implemented in Java
+- 🔄 Reset button to start a new game
+- 🎨 Gradient background and styled buttons
+- 📱 Compatible with most Android devices
 
-- Two-player mode on the same device.
-- Intuitive and minimal user interface.
-- Displays winner or draw result.
-- Reset button to replay the game.
-- Fully responsive layout with gradient background.
+## 🧩 UI Layout
 
-## 🛠 Tech Stack
+- Layout built using `RelativeLayout`, `LinearLayout`, and `GridLayout`
+- Custom styles and color resources applied
+- Responsive and centered grid of 9 buttons (3x3)
+- Player indicator and reset button included
 
-- Java
-- Android SDK
-- XML Layout
-- Android Studio
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/67a31dc4-1373-45f1-abb3-a81c5657a597)
 
-## 📂 Project Structure
 
-- MainActivity.java: Game logic and UI interaction
-- activity_main.xml: UI layout with GridLayout and Buttons
-- res/
-  - values/strings.xml: Text strings
-  - drawable/: Custom gradient backgrounds
-  - color.xml: Custom color resources
-  - styles.xml: Custom button styles
+## 🚀 Getting Started
 
-## 🚀 How to Run
+### Prerequisites
+
+- Android Studio (Recommended version: Arctic Fox or higher)
+- Android SDK (API level 21 or higher)
+- Java JDK 8 or higher
+
+### Installation
 
 1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/TicTacToe-Android.git
+   ```bash
+   git clone https://github.com/yourusername/TicTacToeApp.git
