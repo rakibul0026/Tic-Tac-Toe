@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+
+    <style name="RectButton" parent="Widget.AppCompat.Button">
+        <item name="android:layout_width">100dp</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:textSize">36sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:background">@color/pink</item>
+    </style>
+
+    <string name="reset">Reset Game</string>
+    <string name="textview1">Tic Tac Toe</string>
+    <string name="textview2">Player X</string>
+    <string name="textview3">Player O</string>
+
+    <string name="title">🎮 Tic Tac Toe</string>
+    <string name="log_in"> Profile</string>
+    <string name="play_friend"> Play with Friend</string>
+    <string name="play_computer">Play with computer</string>
+    <string name="Leader_Broard">  Leader Broard</string>
+    <string name="Exit"> Exit</string>
+
+
+    <style name="HomeButton" parent="Widget.AppCompat.Button">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">12dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:backgroundTint">@color/pink1</item>
+    </style>
+
+    <string name="title_activity_playfriend">playfriend</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <style name="TicTacToeButton">
+        <item name="android:layout_width">80dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:background">#FFFFFF</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+</resources>
