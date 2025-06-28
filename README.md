@@ -37,8 +37,10 @@ A classic **Tic Tac Toe** game built with **Java** in **Android Studio**, integr
   ├── MainActivity.java # Single-player mode against AI (computer)
   ├── Leader_Broard.java # Displays leaderboard using Firebase Realtime Database 
   ├── utils/ # (Optional) Helper classes or shared logic
-  ├── res/ │ ├── layout/ # XML files for UI design of each screen │ 
-  ├── drawable/ # App icons, button graphics, background images │ 
+  ├── res/ │
+  ├── layout/ # XML files for UI design of each screen 
+  ├── drawable/ # App icons, button graphics, background images 
   ├── values/ # colors.xml, strings.xml, themes.xml etc.
   ├── AndroidManifest.xml # App configuration and activity declarations
-  ├── build.gradle # Module-level Gradle config └── google-services.json # Firebase configuration file (not committed to GitHub) ``` </pre>
+  ├── build.gradle # Module-level Gradle config 
+  └── google-services.json # Firebase configuration file (not committed to GitHub) ``` </pre>
