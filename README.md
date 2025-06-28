@@ -23,26 +23,11 @@ A classic **Tic Tac Toe** game built with **Java** in **Android Studio**, integr
 ![image](https://github.com/user-attachments/assets/c31f13e4-5d5c-4044-a48b-95a160065035)
 ![image](https://github.com/user-attachments/assets/daa9f72c-34de-4dec-b941-ab61e7a76aa2)
 ![image](https://github.com/user-attachments/assets/7c2702a8-29cb-416a-a2da-1400281e9eea)
-![Uploading image.png…]()
+
 
 
 
 
 
 ## 📂 Project Structure
-com.example.tictactoe/
-├── ActivityHome.java        # Home screen with game mode selection
-├── profile.java             # Login/Profile screen using Firebase Authentication
-├── playfriend.java          # Local multiplayer mode (2 players on same device)
-├── MainActivity.java        # Single-player mode against AI (computer)
-├── Leader_Broard.java       # Displays leaderboard using Firebase Realtime Database
-├── utils/                   # (Optional) Helper classes or shared logic
-├── res/
-│   ├── layout/              # XML files for UI design of each screen
-│   ├── drawable/            # App icons, button graphics, background images
-│   ├── values/              # colors.xml, strings.xml, themes.xml etc.
-├── AndroidManifest.xml      # App configuration and activity declarations
-├── build.gradle             # Module-level Gradle config
-└── google-services.json     # Firebase configuration file (not committed to GitHub)
-
-
+<pre> ``` com.example.tictactoe/ ├── ActivityHome.java # Home screen with game mode selection ├── profile.java # Login/Profile screen using Firebase Authentication ├── playfriend.java # Local multiplayer mode (2 players on same device) ├── MainActivity.java # Single-player mode against AI (computer) ├── Leader_Broard.java # Displays leaderboard using Firebase Realtime Database ├── utils/ # (Optional) Helper classes or shared logic ├── res/ │ ├── layout/ # XML files for UI design of each screen │ ├── drawable/ # App icons, button graphics, background images │ ├── values/ # colors.xml, strings.xml, themes.xml etc. ├── AndroidManifest.xml # App configuration and activity declarations ├── build.gradle # Module-level Gradle config └── google-services.json # Firebase configuration file (not committed to GitHub) ``` </pre>
