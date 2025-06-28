@@ -1,34 +1,27 @@
 # 🎮 Tic Tac Toe - Android App
 
-![Tic Tac Toe Banner](screenshots/banner.png)
+A classic **Tic Tac Toe** game built with **Java** in **Android Studio**, integrated with **Firebase** for user authentication and leaderboard management.
 
-A classic **Tic Tac Toe** game built with **Java** in **Android Studio** featuring:
-- 🔄 Multiplayer (Play with Friend)
-- 🤖 Single Player (Play with Computer)
-- 📊 Leaderboard integration (via Firebase)
-- 🙍‍♂️ User Profile/Login
+## 🚀 Features
 
----
-
-## 📱 Features
-
-- **Modern UI** with `EdgeToEdge` design
-- **Three game modes**: vs Computer, vs Friend, and Leaderboard
-- **User login system** using Firebase
-- **Leaderboard** to track top players (Firebase Realtime Database)
-- **Smooth navigation** between activities
-- **Exit button** with Toast notification
+- 🔄 **Multiplayer Mode** – Play with a friend locally
+- 🤖 **Single Player Mode** – Challenge the computer AI
+- 📊 **Leaderboard** – Track top scores using Firebase Realtime Database
+- 🙍‍♂️ **User Login/Profile** – Firebase Authentication integration
+- 🎨 **Modern UI** – Clean Android Material design with `EdgeToEdge` layout
+- 🔔 **Toast Notification** on exit
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **Java** (Android Development)
-- **Firebase** (Authentication + Realtime Database)
-- **XML** for UI design
-- **Android Studio**
+- **Java** – Primary language
+- **Firebase** – Authentication & Realtime Database
+- **Android Studio** – App development environment
+- **XML** – UI layout design
+## image
+![image](https://github.com/user-attachments/assets/c31f13e4-5d5c-4044-a48b-95a160065035)
 
----
 
 ## 📂 Project Structure
 
