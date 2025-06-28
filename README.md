@@ -23,6 +23,8 @@ A classic **Tic Tac Toe** game built with **Java** in **Android Studio**, integr
 ![image](https://github.com/user-attachments/assets/c31f13e4-5d5c-4044-a48b-95a160065035)
 ![image](https://github.com/user-attachments/assets/daa9f72c-34de-4dec-b941-ab61e7a76aa2)
 ![image](https://github.com/user-attachments/assets/7c2702a8-29cb-416a-a2da-1400281e9eea)
+![image](https://github.com/user-attachments/assets/2660115a-6a52-4a19-8825-d85b964059a9)
+
 
 
 
