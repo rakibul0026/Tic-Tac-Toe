@@ -21,6 +21,8 @@ A classic **Tic Tac Toe** game built with **Java** in **Android Studio**, integr
 - **XML** – UI layout design
 ## image
 ![image](https://github.com/user-attachments/assets/c31f13e4-5d5c-4044-a48b-95a160065035)
+![image](https://github.com/user-attachments/assets/daa9f72c-34de-4dec-b941-ab61e7a76aa2)
+
 
 
 ## 📂 Project Structure
