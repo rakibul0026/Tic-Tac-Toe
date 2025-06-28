@@ -30,4 +30,19 @@ A classic **Tic Tac Toe** game built with **Java** in **Android Studio**, integr
 
 
 ## 📂 Project Structure
+com.example.tictactoe/
+├── ActivityHome.java        # Home screen with game mode selection
+├── profile.java             # Login/Profile screen using Firebase Authentication
+├── playfriend.java          # Local multiplayer mode (2 players on same device)
+├── MainActivity.java        # Single-player mode against AI (computer)
+├── Leader_Broard.java       # Displays leaderboard using Firebase Realtime Database
+├── utils/                   # (Optional) Helper classes or shared logic
+├── res/
+│   ├── layout/              # XML files for UI design of each screen
+│   ├── drawable/            # App icons, button graphics, background images
+│   ├── values/              # colors.xml, strings.xml, themes.xml etc.
+├── AndroidManifest.xml      # App configuration and activity declarations
+├── build.gradle             # Module-level Gradle config
+└── google-services.json     # Firebase configuration file (not committed to GitHub)
+
 
